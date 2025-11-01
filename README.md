@@ -138,7 +138,7 @@ docker-compose up -d
 - **Swap > 90%** → Telegram
 - **Цена BTC < $50,000** → Telegram
 
-**Contact Point**: Telegram (`@TetrisregBot`, Chat ID: `-1001234567890`)
+**Contact Point**: Telegram (`@TetrisregBot`)
 
 ---
 
